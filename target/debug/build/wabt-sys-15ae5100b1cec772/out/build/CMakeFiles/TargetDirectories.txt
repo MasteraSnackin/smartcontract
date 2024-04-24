@@ -1,0 +1,5 @@
+/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build/CMakeFiles/everything.dir
+/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build/CMakeFiles/wabt.dir
+/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build/CMakeFiles/wasm.dir
+/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build/CMakeFiles/edit_cache.dir
+/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build/CMakeFiles/rebuild_cache.dir

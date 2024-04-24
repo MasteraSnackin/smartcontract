@@ -1,0 +1,524 @@
+[
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/apply-names.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/apply-names.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/apply-names.cc",
+  "output": "CMakeFiles/wabt.dir/src/apply-names.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/binary.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary.cc",
+  "output": "CMakeFiles/wabt.dir/src/binary.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/binary-reader.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader.cc",
+  "output": "CMakeFiles/wabt.dir/src/binary-reader.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/binary-reader-ir.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader-ir.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader-ir.cc",
+  "output": "CMakeFiles/wabt.dir/src/binary-reader-ir.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/binary-reader-logging.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader-logging.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader-logging.cc",
+  "output": "CMakeFiles/wabt.dir/src/binary-reader-logging.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/binary-writer.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-writer.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-writer.cc",
+  "output": "CMakeFiles/wabt.dir/src/binary-writer.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/binary-writer-spec.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-writer-spec.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-writer-spec.cc",
+  "output": "CMakeFiles/wabt.dir/src/binary-writer-spec.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/binding-hash.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binding-hash.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binding-hash.cc",
+  "output": "CMakeFiles/wabt.dir/src/binding-hash.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/color.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/color.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/color.cc",
+  "output": "CMakeFiles/wabt.dir/src/color.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/common.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/common.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/common.cc",
+  "output": "CMakeFiles/wabt.dir/src/common.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/config.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/config.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/config.cc",
+  "output": "CMakeFiles/wabt.dir/src/config.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/decompiler.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/decompiler.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/decompiler.cc",
+  "output": "CMakeFiles/wabt.dir/src/decompiler.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/error-formatter.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/error-formatter.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/error-formatter.cc",
+  "output": "CMakeFiles/wabt.dir/src/error-formatter.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/expr-visitor.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/expr-visitor.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/expr-visitor.cc",
+  "output": "CMakeFiles/wabt.dir/src/expr-visitor.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/feature.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/feature.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/feature.cc",
+  "output": "CMakeFiles/wabt.dir/src/feature.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/filenames.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/filenames.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/filenames.cc",
+  "output": "CMakeFiles/wabt.dir/src/filenames.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/generate-names.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/generate-names.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/generate-names.cc",
+  "output": "CMakeFiles/wabt.dir/src/generate-names.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/hash-util.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/hash-util.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/hash-util.cc",
+  "output": "CMakeFiles/wabt.dir/src/hash-util.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/ir.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/ir.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/ir.cc",
+  "output": "CMakeFiles/wabt.dir/src/ir.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/ir-util.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/ir-util.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/ir-util.cc",
+  "output": "CMakeFiles/wabt.dir/src/ir-util.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/leb128.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/leb128.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/leb128.cc",
+  "output": "CMakeFiles/wabt.dir/src/leb128.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/lexer-source.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/lexer-source.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/lexer-source.cc",
+  "output": "CMakeFiles/wabt.dir/src/lexer-source.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/lexer-source-line-finder.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/lexer-source-line-finder.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/lexer-source-line-finder.cc",
+  "output": "CMakeFiles/wabt.dir/src/lexer-source-line-finder.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/literal.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/literal.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/literal.cc",
+  "output": "CMakeFiles/wabt.dir/src/literal.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/opcode.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/opcode.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/opcode.cc",
+  "output": "CMakeFiles/wabt.dir/src/opcode.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/cc -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/opcode-code-table.c.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/opcode-code-table.c",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/opcode-code-table.c",
+  "output": "CMakeFiles/wabt.dir/src/opcode-code-table.c.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/option-parser.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/option-parser.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/option-parser.cc",
+  "output": "CMakeFiles/wabt.dir/src/option-parser.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/resolve-names.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/resolve-names.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/resolve-names.cc",
+  "output": "CMakeFiles/wabt.dir/src/resolve-names.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/shared-validator.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/shared-validator.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/shared-validator.cc",
+  "output": "CMakeFiles/wabt.dir/src/shared-validator.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/stream.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/stream.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/stream.cc",
+  "output": "CMakeFiles/wabt.dir/src/stream.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/string-view.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/string-view.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/string-view.cc",
+  "output": "CMakeFiles/wabt.dir/src/string-view.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/token.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/token.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/token.cc",
+  "output": "CMakeFiles/wabt.dir/src/token.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/tracing.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/tracing.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/tracing.cc",
+  "output": "CMakeFiles/wabt.dir/src/tracing.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/type-checker.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/type-checker.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/type-checker.cc",
+  "output": "CMakeFiles/wabt.dir/src/type-checker.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/utf8.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/utf8.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/utf8.cc",
+  "output": "CMakeFiles/wabt.dir/src/utf8.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/validator.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/validator.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/validator.cc",
+  "output": "CMakeFiles/wabt.dir/src/validator.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/wast-lexer.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wast-lexer.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wast-lexer.cc",
+  "output": "CMakeFiles/wabt.dir/src/wast-lexer.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/wast-parser.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wast-parser.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wast-parser.cc",
+  "output": "CMakeFiles/wabt.dir/src/wast-parser.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/wat-writer.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wat-writer.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wat-writer.cc",
+  "output": "CMakeFiles/wabt.dir/src/wat-writer.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/interp/binary-reader-interp.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/binary-reader-interp.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/binary-reader-interp.cc",
+  "output": "CMakeFiles/wabt.dir/src/interp/binary-reader-interp.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/interp/interp.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/interp.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/interp.cc",
+  "output": "CMakeFiles/wabt.dir/src/interp/interp.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/interp/interp-util.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/interp-util.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/interp-util.cc",
+  "output": "CMakeFiles/wabt.dir/src/interp/interp-util.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -o CMakeFiles/wabt.dir/src/interp/istream.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/istream.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/istream.cc",
+  "output": "CMakeFiles/wabt.dir/src/interp/istream.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/apply-names.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/apply-names.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/apply-names.cc",
+  "output": "CMakeFiles/wasm.dir/src/apply-names.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary.cc",
+  "output": "CMakeFiles/wasm.dir/src/binary.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary-reader.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader.cc",
+  "output": "CMakeFiles/wasm.dir/src/binary-reader.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary-reader-ir.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader-ir.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader-ir.cc",
+  "output": "CMakeFiles/wasm.dir/src/binary-reader-ir.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary-reader-logging.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader-logging.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-reader-logging.cc",
+  "output": "CMakeFiles/wasm.dir/src/binary-reader-logging.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary-writer.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-writer.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-writer.cc",
+  "output": "CMakeFiles/wasm.dir/src/binary-writer.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binary-writer-spec.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-writer-spec.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binary-writer-spec.cc",
+  "output": "CMakeFiles/wasm.dir/src/binary-writer-spec.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/binding-hash.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binding-hash.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/binding-hash.cc",
+  "output": "CMakeFiles/wasm.dir/src/binding-hash.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/color.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/color.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/color.cc",
+  "output": "CMakeFiles/wasm.dir/src/color.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/common.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/common.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/common.cc",
+  "output": "CMakeFiles/wasm.dir/src/common.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/config.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/config.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/config.cc",
+  "output": "CMakeFiles/wasm.dir/src/config.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/decompiler.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/decompiler.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/decompiler.cc",
+  "output": "CMakeFiles/wasm.dir/src/decompiler.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/error-formatter.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/error-formatter.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/error-formatter.cc",
+  "output": "CMakeFiles/wasm.dir/src/error-formatter.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/expr-visitor.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/expr-visitor.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/expr-visitor.cc",
+  "output": "CMakeFiles/wasm.dir/src/expr-visitor.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/feature.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/feature.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/feature.cc",
+  "output": "CMakeFiles/wasm.dir/src/feature.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/filenames.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/filenames.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/filenames.cc",
+  "output": "CMakeFiles/wasm.dir/src/filenames.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/generate-names.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/generate-names.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/generate-names.cc",
+  "output": "CMakeFiles/wasm.dir/src/generate-names.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/hash-util.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/hash-util.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/hash-util.cc",
+  "output": "CMakeFiles/wasm.dir/src/hash-util.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/ir.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/ir.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/ir.cc",
+  "output": "CMakeFiles/wasm.dir/src/ir.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/ir-util.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/ir-util.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/ir-util.cc",
+  "output": "CMakeFiles/wasm.dir/src/ir-util.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/leb128.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/leb128.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/leb128.cc",
+  "output": "CMakeFiles/wasm.dir/src/leb128.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/lexer-source.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/lexer-source.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/lexer-source.cc",
+  "output": "CMakeFiles/wasm.dir/src/lexer-source.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/lexer-source-line-finder.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/lexer-source-line-finder.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/lexer-source-line-finder.cc",
+  "output": "CMakeFiles/wasm.dir/src/lexer-source-line-finder.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/literal.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/literal.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/literal.cc",
+  "output": "CMakeFiles/wasm.dir/src/literal.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/opcode.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/opcode.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/opcode.cc",
+  "output": "CMakeFiles/wasm.dir/src/opcode.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/cc -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -g -fPIC   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/opcode-code-table.c.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/opcode-code-table.c",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/opcode-code-table.c",
+  "output": "CMakeFiles/wasm.dir/src/opcode-code-table.c.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/option-parser.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/option-parser.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/option-parser.cc",
+  "output": "CMakeFiles/wasm.dir/src/option-parser.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/resolve-names.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/resolve-names.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/resolve-names.cc",
+  "output": "CMakeFiles/wasm.dir/src/resolve-names.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/shared-validator.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/shared-validator.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/shared-validator.cc",
+  "output": "CMakeFiles/wasm.dir/src/shared-validator.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/stream.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/stream.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/stream.cc",
+  "output": "CMakeFiles/wasm.dir/src/stream.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/string-view.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/string-view.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/string-view.cc",
+  "output": "CMakeFiles/wasm.dir/src/string-view.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/token.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/token.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/token.cc",
+  "output": "CMakeFiles/wasm.dir/src/token.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/tracing.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/tracing.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/tracing.cc",
+  "output": "CMakeFiles/wasm.dir/src/tracing.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/type-checker.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/type-checker.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/type-checker.cc",
+  "output": "CMakeFiles/wasm.dir/src/type-checker.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/utf8.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/utf8.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/utf8.cc",
+  "output": "CMakeFiles/wasm.dir/src/utf8.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/validator.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/validator.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/validator.cc",
+  "output": "CMakeFiles/wasm.dir/src/validator.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/wast-lexer.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wast-lexer.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wast-lexer.cc",
+  "output": "CMakeFiles/wasm.dir/src/wast-lexer.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/wast-parser.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wast-parser.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wast-parser.cc",
+  "output": "CMakeFiles/wasm.dir/src/wast-parser.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/wat-writer.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wat-writer.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/wat-writer.cc",
+  "output": "CMakeFiles/wasm.dir/src/wat-writer.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/interp/binary-reader-interp.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/binary-reader-interp.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/binary-reader-interp.cc",
+  "output": "CMakeFiles/wasm.dir/src/interp/binary-reader-interp.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/interp/interp.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/interp.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/interp.cc",
+  "output": "CMakeFiles/wasm.dir/src/interp/interp.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/interp/interp-util.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/interp-util.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/interp-util.cc",
+  "output": "CMakeFiles/wasm.dir/src/interp/interp-util.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/interp/istream.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/istream.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/istream.cc",
+  "output": "CMakeFiles/wasm.dir/src/interp/istream.cc.o"
+},
+{
+  "directory": "/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build",
+  "command": "/usr/bin/c++ -DWASM_API_EXTERN=\"__attribute__((visibility(\\\"default\\\")))\" -D__STDC_FORMAT_MACROS=1 -D__STDC_LIMIT_MACROS=1 -Dwasm_EXPORTS -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt -I/home/mint/Documents/github/QWERTY/plaza/target/debug/build/wabt-sys-15ae5100b1cec772/out/build -I/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/third_party/wasm-c-api/include  -ffunction-sections -fdata-sections -fPIC -m64 -std=c++11 -Wold-style-cast -fno-exceptions -g -fPIC -fvisibility=hidden   -Wall -Wextra -Wno-unused-parameter -Wpointer-arith -g -Wuninitialized -Wno-clobbered -Wno-old-style-cast -o CMakeFiles/wasm.dir/src/interp/interp-wasm-c-api.cc.o -c /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/interp-wasm-c-api.cc",
+  "file": "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wabt-sys-0.8.0/wabt/src/interp/interp-wasm-c-api.cc",
+  "output": "CMakeFiles/wasm.dir/src/interp/interp-wasm-c-api.cc.o"
+}
+]

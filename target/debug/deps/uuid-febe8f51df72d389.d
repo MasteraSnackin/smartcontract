@@ -1,0 +1,14 @@
+/home/mint/Documents/github/QWERTY/plaza/target/debug/deps/libuuid-febe8f51df72d389.rmeta: /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/lib.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/builder.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/error.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/parser.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/fmt.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/timestamp.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/v4.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/rng.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/external.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/macros.rs
+
+/home/mint/Documents/github/QWERTY/plaza/target/debug/deps/uuid-febe8f51df72d389.d: /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/lib.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/builder.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/error.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/parser.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/fmt.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/timestamp.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/v4.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/rng.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/external.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/macros.rs
+
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/lib.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/builder.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/error.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/parser.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/fmt.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/timestamp.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/v4.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/rng.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/external.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/macros.rs:

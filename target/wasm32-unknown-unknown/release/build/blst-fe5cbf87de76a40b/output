@@ -1,0 +1,126 @@
+cargo:rerun-if-env-changed=BLST_TEST_NO_STD
+Using blst source directory /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blst-0.3.11/blst
+cargo:rerun-if-changed=/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blst-0.3.11/blst/src
+TARGET = Some("wasm32-unknown-unknown")
+HOST = Some("x86_64-unknown-linux-gnu")
+cargo:rerun-if-env-changed=CC_wasm32-unknown-unknown
+CC_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=CC_wasm32_unknown_unknown
+CC_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_CC
+TARGET_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("false")
+cargo:rerun-if-env-changed=CFLAGS_wasm32-unknown-unknown
+CFLAGS_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=CFLAGS_wasm32_unknown_unknown
+CFLAGS_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_CFLAGS
+TARGET_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CC_wasm32-unknown-unknown
+CC_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=CC_wasm32_unknown_unknown
+CC_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_CC
+TARGET_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+cargo:rerun-if-env-changed=CFLAGS_wasm32-unknown-unknown
+CFLAGS_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=CFLAGS_wasm32_unknown_unknown
+CFLAGS_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_CFLAGS
+TARGET_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CC_wasm32-unknown-unknown
+CC_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=CC_wasm32_unknown_unknown
+CC_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_CC
+TARGET_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+cargo:rerun-if-env-changed=CFLAGS_wasm32-unknown-unknown
+CFLAGS_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=CFLAGS_wasm32_unknown_unknown
+CFLAGS_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_CFLAGS
+TARGET_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CC_wasm32-unknown-unknown
+CC_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=CC_wasm32_unknown_unknown
+CC_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_CC
+TARGET_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+cargo:rerun-if-env-changed=CFLAGS_wasm32-unknown-unknown
+CFLAGS_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=CFLAGS_wasm32_unknown_unknown
+CFLAGS_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_CFLAGS
+TARGET_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CC_wasm32-unknown-unknown
+CC_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=CC_wasm32_unknown_unknown
+CC_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_CC
+TARGET_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+cargo:rerun-if-env-changed=CFLAGS_wasm32-unknown-unknown
+CFLAGS_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=CFLAGS_wasm32_unknown_unknown
+CFLAGS_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_CFLAGS
+TARGET_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+running: "clang" "-O2" "-ffunction-sections" "-fdata-sections" "-fPIC" "--target=wasm32-unknown-unknown" "-Wall" "-Wextra" "-ffreestanding" "-D__BLST_NO_ASM__" "-DSCRATCH_LIMIT=(45 * 1024)" "-o" "/home/mint/Documents/github/QWERTY/plaza/target/wasm32-unknown-unknown/release/build/blst-fe5cbf87de76a40b/out/24314bc5184978b4-server.o" "-c" "/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blst-0.3.11/blst/src/server.c"
+exit status: 0
+cargo:rerun-if-env-changed=AR_wasm32-unknown-unknown
+AR_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=AR_wasm32_unknown_unknown
+AR_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_AR
+TARGET_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+running: "clang" "-print-search-dirs"
+exit status: 0
+cargo:rerun-if-env-changed=ARFLAGS_wasm32-unknown-unknown
+ARFLAGS_wasm32-unknown-unknown = None
+cargo:rerun-if-env-changed=ARFLAGS_wasm32_unknown_unknown
+ARFLAGS_wasm32_unknown_unknown = None
+cargo:rerun-if-env-changed=TARGET_ARFLAGS
+TARGET_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+running: ZERO_AR_DATE="1" "/home/linuxbrew/.linuxbrew/bin/llvm-ar" "cq" "/home/mint/Documents/github/QWERTY/plaza/target/wasm32-unknown-unknown/release/build/blst-fe5cbf87de76a40b/out/libblst.a" "/home/mint/Documents/github/QWERTY/plaza/target/wasm32-unknown-unknown/release/build/blst-fe5cbf87de76a40b/out/24314bc5184978b4-server.o"
+exit status: 0
+running: "clang" "-print-search-dirs"
+exit status: 0
+running: "/home/linuxbrew/.linuxbrew/bin/llvm-ar" "s" "/home/mint/Documents/github/QWERTY/plaza/target/wasm32-unknown-unknown/release/build/blst-fe5cbf87de76a40b/out/libblst.a"
+exit status: 0
+cargo:rustc-link-lib=static=blst
+cargo:rustc-link-search=native=/home/mint/Documents/github/QWERTY/plaza/target/wasm32-unknown-unknown/release/build/blst-fe5cbf87de76a40b/out
+cargo:BINDINGS=/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blst-0.3.11/blst/bindings
+cargo:C_SRC=/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blst-0.3.11/blst/src

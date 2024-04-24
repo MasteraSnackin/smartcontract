@@ -1,0 +1,11 @@
+/home/mint/Documents/github/QWERTY/plaza/target/release/deps/libutils-f672d87d08cd87e2.rmeta: /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/lib.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/contextual_display.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/contextual_serialize.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/rust.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/slice.rs
+
+/home/mint/Documents/github/QWERTY/plaza/target/release/deps/libutils-f672d87d08cd87e2.rlib: /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/lib.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/contextual_display.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/contextual_serialize.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/rust.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/slice.rs
+
+/home/mint/Documents/github/QWERTY/plaza/target/release/deps/utils-f672d87d08cd87e2.d: /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/lib.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/contextual_display.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/contextual_serialize.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/rust.rs /home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/slice.rs
+
+/home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/lib.rs:
+/home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/contextual_display.rs:
+/home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/contextual_serialize.rs:
+/home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/rust.rs:
+/home/mint/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/868ba44/utils/src/slice.rs:

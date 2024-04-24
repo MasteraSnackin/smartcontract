@@ -1,0 +1,11 @@
+/home/mint/Documents/github/QWERTY/plaza/target/wasm32-unknown-unknown/release/deps/libgetrandom-acb3462f110495cd.rmeta: /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/dummy.rs
+
+/home/mint/Documents/github/QWERTY/plaza/target/wasm32-unknown-unknown/release/deps/libgetrandom-acb3462f110495cd.rlib: /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/dummy.rs
+
+/home/mint/Documents/github/QWERTY/plaza/target/wasm32-unknown-unknown/release/deps/getrandom-acb3462f110495cd.d: /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/dummy.rs
+
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs:
+/home/mint/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/dummy.rs:
