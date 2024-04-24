@@ -1,3 +1,3 @@
-# RadixPlaza
-DefiPlaza on Radix
+# Radixb Smart Contract
+Defi on Radix
 # smartcontract
